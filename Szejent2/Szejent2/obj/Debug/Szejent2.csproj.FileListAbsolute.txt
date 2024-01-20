@@ -1,0 +1,11 @@
+C:\Users\KARAGÜLLE\Desktop\Szejent2\Szejent2\bin\Debug\Szejent2.exe.config
+C:\Users\KARAGÜLLE\Desktop\Szejent2\Szejent2\bin\Debug\Szejent2.exe
+C:\Users\KARAGÜLLE\Desktop\Szejent2\Szejent2\bin\Debug\Szejent2.pdb
+C:\Users\KARAGÜLLE\Desktop\Szejent2\Szejent2\obj\Debug\Szejent2.csprojAssemblyReference.cache
+C:\Users\KARAGÜLLE\Desktop\Szejent2\Szejent2\obj\Debug\Szejent2.Form1.resources
+C:\Users\KARAGÜLLE\Desktop\Szejent2\Szejent2\obj\Debug\Szejent2.Properties.Resources.resources
+C:\Users\KARAGÜLLE\Desktop\Szejent2\Szejent2\obj\Debug\Szejent2.csproj.GenerateResource.cache
+C:\Users\KARAGÜLLE\Desktop\Szejent2\Szejent2\obj\Debug\Szejent2.csproj.CoreCompileInputs.cache
+C:\Users\KARAGÜLLE\Desktop\Szejent2\Szejent2\obj\Debug\Szejent2.exe
+C:\Users\KARAGÜLLE\Desktop\Szejent2\Szejent2\obj\Debug\Szejent2.pdb
+C:\Users\KARAGÜLLE\Desktop\Szejent2\Szejent2\bin\Debug\app.manifest
